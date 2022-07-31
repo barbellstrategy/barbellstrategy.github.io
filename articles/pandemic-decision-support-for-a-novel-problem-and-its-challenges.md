@@ -18,7 +18,7 @@ Deciding what level of economic shut-down to enforce is difficult because any in
 
 The model that the team has created is a SEIR (**S**usceptible, **E**xposed, **I**nfected, **R**ecovered) model. The most basic form of this model can be described as follows:
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c6220a80-cb76-4271-8363-23fb344e48a1_560x54.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6220a80-cb76-4271-8363-23fb344e48a1_560x54.png)
+![img](c6220a80-cb76-4271-8363-23fb344e48a1_560x54.png)
 
 There are a number of *susceptible* people in the population. They are exposed to the virus at some rate, r1. The *exposed* population becomes infected at another rate, r2. The *infected* population recovers (or, unfortunately, dies) at another rate, r3, resulting in the *recovered* population. This assumes that recovered people have (at least temporary) immunity and don't become susceptible again.
 
@@ -40,7 +40,7 @@ An S value of 1.0 means 100% social distancing, everyone stays home, the exposur
 
 We believe that by using historic data we can map restriction levels to values for S. A notional example is:
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a1ac0787-2732-4a6b-bfb6-8644dbf5d55d_921x361.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ac0787-2732-4a6b-bfb6-8644dbf5d55d_921x361.png)
+![img](a1ac0787-2732-4a6b-bfb6-8644dbf5d55d_921x361.png)
 
 *These levels and numbers presented here are just an example of how this would operate. We anticipate that the Colorado COVID-19 Modelling team has internal data that can actually translate between proposed restriction levels and a social distance factor. The actual values and the actual number of levels can be applied to our model with no additional effort.*
 
@@ -60,7 +60,7 @@ As an example, using the Colorado COVID-19 Model published on 3 July 2020, a fix
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3088b885-43cd-41aa-9905-a5014cf93b76_560x420.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3088b885-43cd-41aa-9905-a5014cf93b76_560x420.png)
+![img](3088b885-43cd-41aa-9905-a5014cf93b76_560x420.png)
 
 
 
@@ -72,7 +72,7 @@ As a notional example, consider these conditions:
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fe1e4598-009e-45f4-8f19-50b510b0b44f_921x472.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe1e4598-009e-45f4-8f19-50b510b0b44f_921x472.png)
+![img](fe1e4598-009e-45f4-8f19-50b510b0b44f_921x472.png)
 
 
 
@@ -80,7 +80,7 @@ The challenge is to optimally determine the ranges for each policy. Using the no
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0c70e117-e475-483b-99b3-422821afd9df_560x560.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c70e117-e475-483b-99b3-422821afd9df_560x560.png)
+![img](0c70e117-e475-483b-99b3-422821afd9df_560x560.png)
 
 
 
@@ -92,7 +92,7 @@ Additionally, at each restriction level, we keep track of an *economic impact* f
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b8b9307c-bda8-4f63-946c-875d93e5e4d2_1063x361.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b9307c-bda8-4f63-946c-875d93e5e4d2_1063x361.png)
+![img](b8b9307c-bda8-4f63-946c-875d93e5e4d2_1063x361.png)
 
 
 
@@ -100,7 +100,7 @@ We then run the model with a set of ranges (like the ones in the table above). W
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0eaaec52-51a4-4a48-8d2e-04fad9117921_560x382.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0eaaec52-51a4-4a48-8d2e-04fad9117921_560x382.png)
+![img](0eaaec52-51a4-4a48-8d2e-04fad9117921_560x382.png)
 
 
 
@@ -108,7 +108,7 @@ SimWrapper quickly tests tens of thousands of model parameters to quickly determ
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a54edf3c-7b2a-47d1-91a9-f136b538a4e8_560x560.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa54edf3c-7b2a-47d1-91a9-f136b538a4e8_560x560.png)
+![img](a54edf3c-7b2a-47d1-91a9-f136b538a4e8_560x560.png)
 
 
 
@@ -120,7 +120,7 @@ The goal is to find a knee in the plot, at C, for example, where we are doing as
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ec233317-ed49-416f-9529-e06693efa00e_921x361.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec233317-ed49-416f-9529-e06693efa00e_921x361.png)
+![img](ec233317-ed49-416f-9529-e06693efa00e_921x361.png)
 
 
 

@@ -2,7 +2,7 @@
 
 As AGT moves out of the obscure Soviet literature, the sport science folks are going to want a more science-y explanation of it. Unfortunately I can't really do that - and to be honest, no one can. 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f001b70c-f799-44fc-a5dc-b7039558d058_640x484.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff001b70c-f799-44fc-a5dc-b7039558d058_640x484.jpeg)
+![img](f001b70c-f799-44fc-a5dc-b7039558d058_640x484.jpeg)
 
 Above is the Krebs cycle and a bunch of other energy-producing reactions that happen in your mitochondria. This is the cycle of life, how energy is made in the cell and what the inputs and outputs are. This is really well studied, and I could be snide and say, "that's the reason AGT works. It's all right in that picture."
 
@@ -22,7 +22,7 @@ Humans aren't just a collection of parts that can be studied in isolation. My bi
 
 
 
-[![img](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4256d347-cacb-412e-9f28-24459257aa7c_640x509.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4256d347-cacb-412e-9f28-24459257aa7c_640x509.png)
+![img](4256d347-cacb-412e-9f28-24459257aa7c_640x509.png)
 
 A simplified view of the Krebs cycle. Notice all the place where H+ leaves the cycle - that's making the acid bath we talk about.
 

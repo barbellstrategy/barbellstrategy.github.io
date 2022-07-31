@@ -4,7 +4,7 @@ I’m still thinking about ways to illustrate how the A+A protocol really does t
 
 I have another thought based on where you spend most of your time training and the effects of that training on your body.
 
-[![trainingpdf.png](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3e7e33f6-8044-486d-85bc-9e90f66bbf8f_750x491.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e7e33f6-8044-486d-85bc-9e90f66bbf8f_750x491.png)
+![trainingpdf.png](3e7e33f6-8044-486d-85bc-9e90f66bbf8f_750x491.png)
 
 Above I have drawn some probability distributions of where different kinds of athletes may spend their tie. The blue line is your typical low-and-slow endurance athlete. Someone who runs or bikes everyday and only does that kind of training. Some days they may go harder, some days they may go easier, but just about every day they are solidly working aerobically only.
 
@@ -14,7 +14,7 @@ The green line is where the training would fall for a full well-rounded athlete 
 
 Now, let’s look what the training effect is on each of the energy systems. Remember, you don’t get to pick what muscle fibers are used. Your body always starts recruiting muscle fibers from the slowest, low-power, aerobic fibers up to the fastest, high-power, alactic fibers. That means, that no matter what you do the most aerobic fibers are always involved - they may not contribute much of the total strength and power output, but they’re always there and getting trained - this is why folks like CrossFit insist that HIIT trains your aerobic output but aerobic output doesn’t train your strength. Taking it farther, this is why A+A trains everything!
 
-[![trainingcdf.png](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c269fbe9-2e77-4d43-8c40-3f1e1d8cbfa2_750x491.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc269fbe9-2e77-4d43-8c40-3f1e1d8cbfa2_750x491.png)
+![trainingcdf.png](c269fbe9-2e77-4d43-8c40-3f1e1d8cbfa2_750x491.png)
 
 Here’s a graph of the cumulative training effect on each pathway. The blue line shows the total time each of the muscle fibers is trained for the athlete who spends most of their time in low-slow work. You can clearly see that the aerobic fibers are trained to the exclusion of all the other pathways. Exactly what we see with a non-strength training endurance athlete.
 
