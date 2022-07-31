@@ -22,4 +22,6 @@ Metabolic flexibility is great, there seems to be evidence suggesting that "ener
 
 Anyway, back to the main story: **A+A will train all of your fibers and make you able to burn all kinds of fuel. That seems like a good idea.**
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

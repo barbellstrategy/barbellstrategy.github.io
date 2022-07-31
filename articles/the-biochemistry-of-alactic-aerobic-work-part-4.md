@@ -28,4 +28,6 @@ Since it's not a good idea to have too much acid lying around in our cells, we'v
 
 In the context of A+A training: we don't want to dig too deep or too long into glycolysis. It's a good idea to hit it a little so that we're training those pathways (and the detox pathways too!), but there's no need to turn the acid load to 11 to get the training effect. That's why 10-15 second repeats are the best, and sometimes (rarely) we'll push it to 30 seconds to just stress it a little more. No long 7 minute non-stop metcons acidifying our entire body!
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

@@ -50,4 +50,6 @@ The biggest source of these oils? Going out to eat at a restaurant. They're chea
 
 Next time, I'll talk about why this matters in your training, not just for your health.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

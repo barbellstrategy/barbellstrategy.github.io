@@ -34,4 +34,6 @@ You need to be out there doing the hard things that make your community better. 
 
 Be strong in the face of fear and make your community a better place. Don’t give up your freedoms or your rights for the appearance and feeling of safety. Don’t support the culture of weakness and victimhood. Make people around you strong and resilient, that’s how we get a better world.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

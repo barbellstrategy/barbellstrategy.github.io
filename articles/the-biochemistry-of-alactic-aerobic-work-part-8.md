@@ -18,4 +18,6 @@ At first, you'll notice that you need a long time to recover. It can be a couple
 
 This is easy - which is good if you need to not be sore when you leave the gym. But it's boring and you don't get immediate feedback that you're doing good work - which is bad for motivation. If you can pay attention to your body and your feelings of recovery, you'll notice that fitness is sneaking up on you - almost like strength sneaks up on you when you do a good strength training program.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

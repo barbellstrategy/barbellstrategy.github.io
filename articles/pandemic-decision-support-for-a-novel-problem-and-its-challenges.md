@@ -132,4 +132,6 @@ These ranges came from running the predictive Colorado COVID-19 model, which acc
 
 We propose this prescriptive model as valuable tool to determine policy in a transparent and scientifically defensible way to manage the trade-offs in the difficult problem of managing both the economy and public health of Colorado. We monitor one metric, *ICU beds in use*, and that directly points to a restriction level that has been optimized to minimize death and suffering by both the virus and economic harm.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

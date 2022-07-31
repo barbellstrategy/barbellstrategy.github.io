@@ -12,4 +12,6 @@ The rate that electrons come through the chain is the rate limiting step. As lon
 
 In the context of A+A training, we are primarily using this cycle to replenish our ATP after our bout of short intense work that depletes it. That's why we prescribe lots of rest time. You need to give this cycle time to generate enough ATP to go again. Usually, in a class setting, I prescribe something like 10 swings on the minute. 10 swings takes about 15 seconds, giving you 45 seconds to recover. The better plan would be for you to regulate your own rest time, but I've tried that and it just doesn't work in a class setting - some folks rush it, and other hang out and talk too much :) So the 45 second rest is a great compromise.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

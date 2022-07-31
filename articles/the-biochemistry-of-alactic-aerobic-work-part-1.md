@@ -28,4 +28,6 @@ In this series of posts I will explore how energy is used in the cells, all thre
 
 Until I finish mapping out the logic on why we do this, just trust me. Do your work with great power and lots of rest. Don’t rush it. Maybe by the time I’m done with this series, the what-the-hell effect will happen and fitness will have sneaked up on you.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

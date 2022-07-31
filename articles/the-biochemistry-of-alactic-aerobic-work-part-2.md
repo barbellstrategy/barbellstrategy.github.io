@@ -26,4 +26,6 @@ The first two are often classified as "anaerobic" as they don't need oxygen, and
 
 I'll dig into these in the next few posts. If you've been following along #1 is the "alactic" pathway, #2 is the "glycolytic" or "lactic", and #3 is the "aerobic". For A+A we want to use Alactic and Aerobic and not glycolytic. You'll see why...
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

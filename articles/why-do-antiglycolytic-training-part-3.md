@@ -16,4 +16,6 @@ Mitochondria work like batteries. If you need to generate a ton of power for you
 
 *****Trigger Warning: Math - Tail events occur with very low probability but can have a dramatic effect. It can bring down an economy (2008 housing bubble) or it can make you stronger. If it takes about 1 second to do a deadlift, and you do 3 sets of 5 once a week (I commonly will do something like this), that means you are under load for only 15 seconds a week, or 0.002% of your week. That small time triggers an enormous shift in your body. Strength training and AGT are tail events that your body learns from.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

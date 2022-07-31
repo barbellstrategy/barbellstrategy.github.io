@@ -36,4 +36,6 @@ Key point: all of these reactions are already set up to be used. That is, you ca
 
 How does this fit into A+A training? The first repeat - your first set of swings - uses up your ATP, then that ATP is regenerated with your Creatine Phosphate. Then comes the second set of swings, no more Creatine Phosphate left, what happens? That's where the other pathways (that can be trained) take over - done correctly, we'll regenerate our ATP with our mitochondria (the aerobic pathway).
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

@@ -14,4 +14,6 @@ This is an exaggerated version of the 5 swings on-the-minute. The 25 swings is a
 
 That's why I want those weights to be pretty easy - I want it to be *movement, not effort*. You don't want to create another demand for ATP. This is ATP regen time!
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

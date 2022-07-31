@@ -32,4 +32,6 @@ Why do we care about generating too much acid? Where do you want to put your lim
 
 Training is not the same as testing. But what if you have to run away from the hungry lion? Don't you want to train for that when you need to make that energy all at once? Actually, no (or technically, not much). If you spend your training time getting stronger, then you'll do more with less energy (less acid) and if you do need even more energy, it's okay to have that acid build up to save your life! You'll recover. What you don't want to do is run from the lion every day. That won't make you stronger, and eventually you'll get eaten.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

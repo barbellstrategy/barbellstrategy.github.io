@@ -2,4 +2,6 @@
 
 First Post!
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

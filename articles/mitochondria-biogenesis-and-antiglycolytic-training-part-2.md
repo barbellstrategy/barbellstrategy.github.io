@@ -26,4 +26,6 @@ This is the polar opposite to a HIIT glycolytic workout followed by heart-health
 
 Think about what happens in a well executed A+A workout like 5 heavy swings on the minute? You spend about 8 seconds burning up all of your stored ATP. Then for the next 55 seconds your aerobic system is busy chewing up saturated fat to replenish the ATP. While it's doing this at a good normal speed, it's creating some ROS that say, "hey, make me some more mitochondria". All of this happens without trying to shove too much energy through any one mitochondria and the individual demand is so low that you don't create any lactic acid that ends up destroying your mitochondria. When you come back for the next day's workout, you have more power sources when you repeat your workout. This is where that WTF effect comes from, the swings build your powerhouse that can be used all day long.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

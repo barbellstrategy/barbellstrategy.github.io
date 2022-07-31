@@ -36,4 +36,6 @@ In the end it all comes down to the dynamics of the biochemical reactions:
 
 **Longer-but-hard**: Waste products build up much faster than they can be disposed of so they hang out in the cell for a long time causing damage. This stress tells your body to deal with the waste products but doesn't actually make you stronger or faster. You're wasting your resources here.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

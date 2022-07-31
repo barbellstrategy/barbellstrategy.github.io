@@ -4,7 +4,7 @@ Collections of articles and blog posts I’ve written. Much have this has been w
 
 Anything unlinked here is coming soon and not ready for prime time.
 
-
+----
 
 | Modeling Talk                                                |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -12,7 +12,7 @@ Anything unlinked here is coming soon and not ready for prime time.
 | Do Masks Work?                                               | An analysis of the “Bangladesh Mask Study”.                  |
 | COVID-19 Vaccines, Menstrual Function, and Pregnancy Outcomes | An analysis of the post-vaccination adverse event reporting related to women’s reproductive health. |
 
-
+----
 
 | Stuff From The Gym |  |
 | ------------- | ------------- |
@@ -21,9 +21,13 @@ Anything unlinked here is coming soon and not ready for prime time.
 | Why Do Antiglycolytic Training?<br />[Part 1](articles/why-do-antiglycolytic-training-part-1.md)<br />[Part 2](articles/why-do-antiglycolytic-training-part-2.md)<br />[Part 3](articles/why-do-antiglycolytic-training-part-3.md) | Trying to convince people that AGT is good for you! |
 | Mitochondria Biogenesis and Antiglycolytic Training<br />[Part 1](articles/mitochondria-biogenesis-and-antiglycolytic-training-part-1.md)<br />[Part 2](articles/mitochondria-biogenesis-and-antiglycolytic-training-part-2.md)<br />[Part 3](articles/mitochondria-biogenesis-and-antiglycolytic-training-part-3.md)<br />[Part 4](articles/mitochondria-biogenesis-and-antiglycolytic-training-part-4.md) | Another series of posts that came together after watching a talk by a doctor who is tangentially related to the kind of work we did at the gym. |
 
+----
+
 | Rants |  |
 | ------------- | ------------- |
 | [Strength vs. Weakness](articles/strength-vs-weakness.md) | Sometimes our post-workout Tequila gets me fired up. |
+
+----
 
 [Home](index.md)
 

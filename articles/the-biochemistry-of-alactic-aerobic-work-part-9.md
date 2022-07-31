@@ -22,4 +22,6 @@ If you talk to the folks who really study this A+A stuff, to get the real benefi
 
 We all believe the same thing - the endless sea of treadmills at the globo gym is a bad thing - we just go about the solution in two different ways. They want you to feel the workout and explicitly use the glycolytic pathway. I want you to train it without using it. I’m right :)
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

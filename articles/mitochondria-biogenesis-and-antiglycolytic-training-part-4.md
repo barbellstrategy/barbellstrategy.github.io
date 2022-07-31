@@ -46,4 +46,6 @@ Let’s break that down…
 
 You won’t see that in the high intensity functional fitness world where they want you to feel like you got a workout.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)

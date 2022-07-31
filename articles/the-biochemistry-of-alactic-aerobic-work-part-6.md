@@ -66,4 +66,6 @@ In all cases, the "speed" of the workout will determine the "aerobicness" of the
 
 You adjust the dose not by changing the intensity - you need to move fast and heavy - but by changing the duration. You only move fast and heavy long enough to get the stimulus, not long enough to get the acid load from the sugar burning.
 
+----
+
 [Home](../index.md) | [Articles](../articles.md)
