@@ -1,4 +1,4 @@
-# The Barbell Strategy Strength, Science, and Simulation Institute
+# The Barbell Strategy <br/>Strength, Science, and Simulation <br/>Institute
 
 Founded by a team of Ph.D. computational modelers with deep knowledge across many domains, we have an institute dedicated to solving problems.  We specialize in creating computational models and apply our expertise across finance, physics, chemistry, biology, neuroscience, medicine, and other fields heavy in applied mathematics. We specialize in quickly gaining domain knowledge to understand and study complex systems.
 
