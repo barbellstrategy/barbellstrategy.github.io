@@ -8,7 +8,7 @@ Our work is generally proprietary and we don’t share details to maintain the c
 
 ## Private Invite-Only Elite Strength and Conditioning
 
-A practical outshoot of our biology and health studies is the South Boulder Kettlebell Club where we use community to build strong and resilient humans. Being strong is the primary value of The BS4 Institute. Physically, mentally, and emotionally strong people make our society great and we reject fear and weakness as a driver of behavior. All problems are solved by approaching them from a position of strength, curiosity, and a desire to learn.
+A practical outshoot of our biology and health studies is the South Boulder Kettlebell Club (which evolved from our public S&C gym, Barbell Strategy) where we use community to build strong and resilient humans. Being strong is the primary value of The BS4 Institute. Physically, mentally, and emotionally strong people make our society great and we reject fear and weakness as a driver of behavior. All problems are solved by approaching them from a position of strength, curiosity, and a desire to learn.
 
 Back-to-basics strength training with the barbell and kettlebell. Simple antiglycolytic metabolic conditioning developed from years of research. Training shouldn't be complicated. We've subtracted all the unnecessary pieces and created smart programming centered around just barbells and kettlebells. [Subscribe to our newsletter](https://sbkb.substack.com/) to learn more.
 
