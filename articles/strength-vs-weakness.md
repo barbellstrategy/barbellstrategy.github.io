@@ -33,3 +33,5 @@ It is your family’s responsibility to be strong enough to take care of your co
 You need to be out there doing the hard things that make your community better. Do not wait for orders from above. Do not wait for anyone to save you. Do not blindly follow rules just because the authorities are trying to keep you safe.
 
 Be strong in the face of fear and make your community a better place. Don’t give up your freedoms or your rights for the appearance and feeling of safety. Don’t support the culture of weakness and victimhood. Make people around you strong and resilient, that’s how we get a better world.
+
+[Home](../index.md) | [Articles](../articles.md)

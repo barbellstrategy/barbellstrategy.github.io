@@ -8,7 +8,7 @@ We use the **A**lactic energy pathway of the cell to fuel a short set of high in
 
 ## So what is A+A work?
 
-[A while ago](https://www.barbellstrategy.com/blog/post-8easp), I came up with this definition: **repeated bursts of short, intense work with lots of rest consistently practiced over weeks or months**.
+A while ago, I came up with this definition: **repeated bursts of short, intense work with lots of rest consistently practiced over weeks or months**.
 
 What does that mean in practice?
 
@@ -27,3 +27,5 @@ Basically, the Alactic and Aerobic pathways are the more “evolved” pathways 
 In this series of posts I will explore how energy is used in the cells, all three metabolic pathways we have to generate energy, how they work together, and how to train them. I have 5 more posts mapped out, but I sometimes end up like Donald Knuth and this may be an ever expanding series of posts that will never be done.
 
 Until I finish mapping out the logic on why we do this, just trust me. Do your work with great power and lots of rest. Don’t rush it. Maybe by the time I’m done with this series, the what-the-hell effect will happen and fitness will have sneaked up on you.
+
+[Home](../index.md) | [Articles](../articles.md)

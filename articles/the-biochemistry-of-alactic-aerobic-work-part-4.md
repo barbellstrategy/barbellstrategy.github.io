@@ -27,3 +27,5 @@ Two comments on that:
 Since it's not a good idea to have too much acid lying around in our cells, we've come up with a couple of ways to buffer it. We try to burn it up elsewhere and get it into the blood and out of the body the other way. Regardless, the rate at which you can buffer that acid is the rate at which you can continue with glycolysis. So it starts off great when the cell is fresh - you get lots of power for a few minutes. Then the rate has to slow down as we're limited by the acid buffering rates. It all comes down to chemical kinetics - my advisor would be proud!
 
 In the context of A+A training: we don't want to dig too deep or too long into glycolysis. It's a good idea to hit it a little so that we're training those pathways (and the detox pathways too!), but there's no need to turn the acid load to 11 to get the training effect. That's why 10-15 second repeats are the best, and sometimes (rarely) we'll push it to 30 seconds to just stress it a little more. No long 7 minute non-stop metcons acidifying our entire body!
+
+[Home](../index.md) | [Articles](../articles.md)

@@ -31,3 +31,5 @@ Meaning you can do more work with less of the nasty byproducts.
 A+A is slow overreaching that is always manageable. Just like a slow weight progression with barbells.
 
 And just like there are hundreds of different protocols to get people stronger, there are (likely) hundreds of protocols to improve your mitochondria under the A+A umbrella. It’s just that we’re so new to this, we don’t know what they are. And that’s why I experiment on you.
+
+[Home](../index.md) | [Articles](../articles.md)

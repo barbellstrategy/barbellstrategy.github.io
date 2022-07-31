@@ -25,3 +25,5 @@ We have three ways to create ATP
 The first two are often classified as "anaerobic" as they don't need oxygen, and the last one is the "aerobic" pathway that everyone like to talk about.
 
 I'll dig into these in the next few posts. If you've been following along #1 is the "alactic" pathway, #2 is the "glycolytic" or "lactic", and #3 is the "aerobic". For A+A we want to use Alactic and Aerobic and not glycolytic. You'll see why...
+
+[Home](../index.md) | [Articles](../articles.md)

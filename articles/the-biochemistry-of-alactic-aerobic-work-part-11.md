@@ -50,3 +50,4 @@ We do A+A work as a way to get stronger (heavy kettlebells build muscle) and to 
 
 My goal is for you to **leave the gym every day feeling better than when you walked in**. And for you to suddenly realize after a few months that everything else you do is easier. **Fitness will sneak up on you.**
 
+[Home](../index.md) | [Articles](../articles.md)

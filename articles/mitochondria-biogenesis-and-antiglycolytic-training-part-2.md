@@ -1,6 +1,6 @@
 # Mitochondria Biogenesis and Antiglycolytic Training Part 2
 
-I had hoped to make my polyunsaturated fat post all one big post. But it was just too much to put all together. [Last time](https://www.barbellstrategy.com/blog/post-zk2tk), I talked about why we shouldn't eat polyunsaturated fats. Or at least we should only get them in the amounts that we would have seen before the industrial food revolution. That is, in trace amounts along with lots of saturated fat.
+I had hoped to make my polyunsaturated fat post all one big post. But it was just too much to put all together. [Last time](mitochondria-biogenesis-and-antiglycolytic-training-part-1.md), I talked about why we shouldn't eat polyunsaturated fats. Or at least we should only get them in the amounts that we would have seen before the industrial food revolution. That is, in trace amounts along with lots of saturated fat.
 
 The crux of the argument is that during the metabolism of saturated fat, there is a set of byproducts that will trigger a back reaction to slow everything down - i.e., prevent overcharging. That back reaction doesn't happen with polyunsaturated fats.
 
@@ -25,3 +25,5 @@ This is why I love eating coconut butter before AGT work. You're fueling yoursel
 This is the polar opposite to a HIIT glycolytic workout followed by heart-healthy vegetable oils. You are doing nothing but telling your mitochondria to run hot and eventually they'll burn up.
 
 Think about what happens in a well executed A+A workout like 5 heavy swings on the minute? You spend about 8 seconds burning up all of your stored ATP. Then for the next 55 seconds your aerobic system is busy chewing up saturated fat to replenish the ATP. While it's doing this at a good normal speed, it's creating some ROS that say, "hey, make me some more mitochondria". All of this happens without trying to shove too much energy through any one mitochondria and the individual demand is so low that you don't create any lactic acid that ends up destroying your mitochondria. When you come back for the next day's workout, you have more power sources when you repeat your workout. This is where that WTF effect comes from, the swings build your powerhouse that can be used all day long.
+
+[Home](../index.md) | [Articles](../articles.md)

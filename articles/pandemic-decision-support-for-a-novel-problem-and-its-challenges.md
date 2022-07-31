@@ -1,8 +1,8 @@
-It’s been a while since I’ve written a post for the newsletter. At least I’m still doing programming!
+This may not have aged well in the last couple of years. Early on when I thought that the government had our best interests in mind when they were struggling with the pandemic response, I put together this modeling and simulation optimization approach pro bono.  I got an audience with the milquetoast leader of the software response team and she didn’t want to go any farther.  Now I see why, but then I was naïve. 
 
-I’ve been busy with real work, including a couple of side projects that I think are really important. Below is the result of one of those projects: an augmentation of a model to help our policy makers decide what to do with this whole pandemic thing. I’m starting to get some traction with the Colorado government, so that’s great! But I figured that since my readership is far and wide and a good collection of smart and connected folks, maybe someone else might find this useful or know of someone in their government that might find this useful. Please share with anyone who you think may find this or something similar useful.
+Below is the result of a project I did: an augmentation of a model to help our policy makers decide what to do with this whole pandemic thing. I was starting to get some traction with the Colorado government, but that fizzled. I figured that since my readership is far and wide and a good collection of smart and connected folks, maybe someone else might find this useful or know of someone in their government that might find this useful. Please share with anyone who you think may find this or something similar useful.
 
-If you want a well formatted PDF, let me know. Substack leaves a lot to be desired if you want to publish anything other than basic HTML (but I guess that’s their market).
+---
 
 # Pandemic: Decision Support For A Novel Problem And Its Challenges
 
@@ -131,3 +131,5 @@ These ranges came from running the predictive Colorado COVID-19 model, which acc
 # Conclusion
 
 We propose this prescriptive model as valuable tool to determine policy in a transparent and scientifically defensible way to manage the trade-offs in the difficult problem of managing both the economy and public health of Colorado. We monitor one metric, *ICU beds in use*, and that directly points to a restriction level that has been optimized to minimize death and suffering by both the virus and economic harm.
+
+[Home](../index.md) | [Articles](../articles.md)

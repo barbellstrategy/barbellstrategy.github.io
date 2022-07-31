@@ -35,3 +35,5 @@ I would argue, that if you smell bad after a workout, that means you dug too dee
 Key point: all of these reactions are already set up to be used. That is, you can just sprint or lift a heavy weight - right now! And then you can recover with the Creatine Phosphate and acid that's already there - there's nothing there that you can train, it's just chemistry.
 
 How does this fit into A+A training? The first repeat - your first set of swings - uses up your ATP, then that ATP is regenerated with your Creatine Phosphate. Then comes the second set of swings, no more Creatine Phosphate left, what happens? That's where the other pathways (that can be trained) take over - done correctly, we'll regenerate our ATP with our mitochondria (the aerobic pathway).
+
+[Home](../index.md) | [Articles](../articles.md)

@@ -1,6 +1,6 @@
 # Mitochondria Biogenesis and Antiglycolytic Training Part 4
 
-After my three part ([one](https://www.barbellstrategy.com/blog/post-zk2tk), [two](https://www.barbellstrategy.com/blog/post-2d5n2), [three](https://www.barbellstrategy.com/blog/post-pnnat)) post about how we can use diet and training to stimulate mitochondrial biogenesis, I was talking to a member about how our AGT work differs from all the other ways of training. I think I have a good analogy here.
+After my three part ([one](mitochondria-biogenesis-and-antiglycolytic-training-part-1.md), [two](mitochondria-biogenesis-and-antiglycolytic-training-part-2.md), [three](mitochondria-biogenesis-and-antiglycolytic-training-part-3.md)) post about how we can use diet and training to stimulate mitochondrial biogenesis, I was talking to a member about how our AGT work differs from all the other ways of training. I think I have a good analogy here.
 
 You need to replenish ATP - the energy your body runs on - as you burn it. There are three ways you can make ATP. 
 
@@ -45,3 +45,5 @@ Let’s break that down…
 *When doing a properly designed long-term program, you’ll be doing intense work every day, so you’ll be getting stronger and faster over time. Without that sustained glycolytic burn, you won’t be doing any damage, and over time your body will get so efficient at beta-oxidation that you’ll be improving your endurance at the same time.*
 
 You won’t see that in the high intensity functional fitness world where they want you to feel like you got a workout.
+
+[Home](../index.md) | [Articles](../articles.md)

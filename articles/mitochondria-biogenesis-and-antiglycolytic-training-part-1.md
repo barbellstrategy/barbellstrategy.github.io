@@ -49,3 +49,5 @@ Basically all vegetable oils!
 The biggest source of these oils? Going out to eat at a restaurant. They're cheap and easy to use. If you eat out, you are eating a ton of these oils. Cook at home and use (real) butter - not margarine - bacon fat, beef tallow, olive oil (however, it's nearly impossible to find real olive oil - the stuff you're buying is usually fraudulently cut with vegetable oils), avocado oil. Basically do the opposite of what the [government says](https://medlineplus.gov/ency/patientinstructions/000747.htm).
 
 Next time, I'll talk about why this matters in your training, not just for your health.
+
+[Home](../index.md) | [Articles](../articles.md)

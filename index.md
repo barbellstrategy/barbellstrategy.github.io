@@ -16,6 +16,10 @@ Back-to-basics strength training with the barbell and kettlebell. Simple antigly
 
 If our work can help a good cause find the truth, we often will take a client pro bono.  We are a non-partisan group interested in understanding complex systems, we don’t take the typical think-tank approach were we try to find data and analyses that support a narrative.  If you want the truth (and can handle it), we may be able to help.
 
+## Articles
+
+A collection of our writings is [over here](articles.md).  Mostly what you’ll find is our strength and health work because that’s self-funded and we can share that.
+
 ## Contact Us
 
 If you think we can help you, reach out to us at bs4info@barbellstrategy.com. 

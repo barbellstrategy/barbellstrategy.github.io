@@ -65,3 +65,5 @@ And in the context of a higher power activity - the 5-minute snatch test:
 In all cases, the "speed" of the workout will determine the "aerobicness" of the workout. If you slow down, you will be more aerobic. That's good - it's the clean burning pathway. But, if you only do aerobic work you'll never use the other fibers, and what you don't use won't be maintained by your body. So you need to hit those high-power fibers to tell your body to keep them around. **That means** ***everyone*** **needs to lift heavy and move fast!**
 
 You adjust the dose not by changing the intensity - you need to move fast and heavy - but by changing the duration. You only move fast and heavy long enough to get the stimulus, not long enough to get the acid load from the sugar burning.
+
+[Home](../index.md) | [Articles](../articles.md)

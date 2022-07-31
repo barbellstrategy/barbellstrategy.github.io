@@ -1,5 +1,5 @@
-# Hello World
+# Template
 
-First Post!
+text
 
 [Home](../index.md) | [Articles](../articles.md)

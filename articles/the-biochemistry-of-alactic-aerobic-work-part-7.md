@@ -21,3 +21,5 @@ So while you'll never burn enough energy in a workout to lose weight, maybe ther
 Metabolic flexibility is great, there seems to be evidence suggesting that "energy in the blood" is the bad thing. We know sugar is bad, so we try to burn it or store it, and when we can't do either and it overflows back into the blood bad things happen. It also seems that's the case with fat (check out some of Dave Feldmen's work). If you have high cholesterol because you're moving fat around (from storage to use, e.g.) that's totally fine. But if you have high cholesterol because there's no storage left and your body is just using your blood as the last-change storage, that's when trouble happens. Neat theory, some data seems to suggest that.
 
 Anyway, back to the main story: **A+A will train all of your fibers and make you able to burn all kinds of fuel. That seems like a good idea.**
+
+[Home](../index.md) | [Articles](../articles.md)

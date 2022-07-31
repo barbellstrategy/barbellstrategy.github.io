@@ -1,6 +1,6 @@
 # Why Do Antiglycolytic Training Part 3
 
-In our series on antiglycolytic training, **[Part 1](https://www.barbellstrategy.com/www.barbellstrategy.com//2018/01/why-do-antiglycolytic-training-part-1.html)** and **[Part 2](https://www.barbellstrategy.com/www.barbellstrategy.com//2018/01/why-do-antiglycolytic-training-part-2.html)** cover *why* we do it. Hopefully now you are convinced of the why, so Part 3 will cover *how* we do antiglycolytic training.
+Hopefully now you are convinced of the why, so Part 3 will cover *how* we do antiglycolytic training.
 
 Our goal with training is to increase our capacity. We do strength training to get stronger, and we do AGT to increase our power output.
 
@@ -15,3 +15,5 @@ How can you increase your capacity without ever stressing it? Why is the Tesla M
 Mitochondria work like batteries. If you need to generate a ton of power for your 15 seconds of fast swings, you need to grow more mitochondria to generate that power. But the fact that you have more mitochondria gives you a much larger capacity at lower power requirements (endurance).
 
 *****Trigger Warning: Math - Tail events occur with very low probability but can have a dramatic effect. It can bring down an economy (2008 housing bubble) or it can make you stronger. If it takes about 1 second to do a deadlift, and you do 3 sets of 5 once a week (I commonly will do something like this), that means you are under load for only 15 seconds a week, or 0.002% of your week. That small time triggers an enormous shift in your body. Strength training and AGT are tail events that your body learns from.
+
+[Home](../index.md) | [Articles](../articles.md)

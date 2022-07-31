@@ -25,3 +25,5 @@ Let’s break that down…
 ...practiced over weeks or months - If you keep coming back, day after day doing these style of workouts. It will tell your body that you need to have more efficient beta-oxidation to fill up your batteries quicker. Since any one mitochondrion cannot supply too much energy at once, your body builds even more mitochondria. You can burn more fat to make more ATP, you’ll have a lot of slow reactions happening in parallel. You’ll get a high power output without stressing your body. Building more mitochondria will let you effortlessly generate ATP quickly - improving your power output.
 
 ![EnergySystems-Mario.png](ebab66af-f77d-4f64-998f-b2fa56ede8ea_750x1023.png)
+
+[Home](../index.md) | [Articles](../articles.md)
