@@ -1,6 +1,6 @@
 # Articles
 
-Collections of articles and blog posts I’ve written. Much have this has been written for other audiences and just collected here.  If the context doesn’t make sense, sorry!
+Collections of articles and blog posts we’ve written. Much have this has been written for other audiences and just collected here.  If the context doesn’t make sense, sorry!
 
 Anything unlinked here is coming soon and not ready for prime time.
 
@@ -8,7 +8,7 @@ Anything unlinked here is coming soon and not ready for prime time.
 
 | Modeling Talk                                                |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Pandemic Decision Support](articles/pandemic-decision-support-for-a-novel-problem-and-its-challenges.md) | Work I did in my day job that’s related to the kind of stuff I do on my own. |
+| [Pandemic Decision Support](articles/pandemic-decision-support-for-a-novel-problem-and-its-challenges.md) | Work we did in our day job that’s related to the kind of stuff we do here. |
 | Do Masks Work?                                               | An analysis of the “Bangladesh Mask Study”.                  |
 | COVID-19 Vaccines, Menstrual Function, and Pregnancy Outcomes | An analysis of the post-vaccination adverse event reporting related to women’s reproductive health. |
 
