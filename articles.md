@@ -1,6 +1,6 @@
 # Articles
 
-Collections of articles and blog posts we’ve written. Much have this has been written for other audiences and just collected here.  If the context doesn’t make sense, sorry!
+Collections of articles and blog posts we’ve written. Much of this has been written for other audiences and just collected here.  If the context doesn’t make sense, sorry!
 
 Anything unlinked here is coming soon and not ready for prime time.
 
