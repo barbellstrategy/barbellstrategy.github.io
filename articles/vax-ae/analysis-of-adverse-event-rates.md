@@ -116,7 +116,7 @@ For all AE, the rates of reports post COVID-19 vaccine are higher than the Influ
 
 *Statistical Significance*
 
-We treat each AE report as discrete independent events occurring at the mean rate specified in Tables 1 and 2 which we model as a Poisson distribution. Given two rates $\lambda_1$ and $\lambda_2$ over a period, $P$, we perform a Poisson E-test [reference: https://userweb.ucs.louisiana.edu/~kxk4695/JSPI-04.pdf] to compute the p-value. The E-test is used for Poisson statistics analogous to the traditional t-test used for Gaussian statistics. The p-value is interpreted in the same way: the probability that the observed events came from the same probability distribution. Or stated another way: the probability that the means (in this case rates) are same by random chance.
+We treat each AE report as discrete independent events occurring at the mean rate specified in Tables 1 and 2 which we model as a Poisson distribution. Given two rates $\lambda_1$ and $\lambda_2$ over a window, $W$, we perform a Poisson E-test [reference: https://userweb.ucs.louisiana.edu/~kxk4695/JSPI-04.pdf] to compute the p-value. The E-test is used for Poisson statistics analogous to the traditional t-test used for Gaussian statistics. The p-value is interpreted in the same way: the probability that the observed events came from the same probability distribution. Or stated another way: the probability that the means (in this case rates) are same by random chance.
 
 We use the rates in Tables 1 and 2 above and normalize the event counts over each window, $W$: the time-, dose-, or people-vaccinated-window and report the p-values below in Table 5. Where there is sufficient data, the p-values are small, and where 0.0 is reported, it was too small to represent as a double precision floating point number in our E-test function [reference: https://github.com/nolanbconaway/poisson-etest]. 
 
@@ -134,8 +134,13 @@ $$
 n_i \leftarrow P(\lambda_i)
 $$
 
-That is, we create a set of 1,000,000 tuples of event counts $ \left\{(n_1,n_2)_1,(n_1,n_2)_2,\dots,(n_1,n_2)_{1000000}\right\} $ drawn from the two Poisson distributions. The ratio distribution, $ R $, is built up from the ratio of the draws of each pair of $ n_1 $ and $ n_2 $ 
+That is, we create a set of 1,000,000 tuples of event counts 
 
+$$
+\left\{(n_1,n_2)_1,(n_1,n_2)_2,\dots,(n_1,n_2)_{1000000}\right\}
+$$
+
+ drawn from the two Poisson distributions. The ratio distribution, $ R $, is built up from the ratio of the draws of each pair of $ n_1 $ and $ n_2 $ 
 $$
 R(\lambda_1,\lambda_2)=\left\{\left(\frac{n_1}{n_2}\right)_1,\left(\frac{n_1}{n_2}\right)_2,\dots,\left(\frac{n_1}{n_2}\right)_{1000000}\right\}
 $$
