@@ -140,7 +140,8 @@ $$
 \left\{(n_1,n_2)_1,(n_1,n_2)_2,\dots,(n_1,n_2)_{1000000}\right\}
 $$
 
- drawn from the two Poisson distributions. The ratio distribution, $ R $, is built up from the ratio of the draws of each pair of $ n_1 $ and $ n_2 $ 
+drawn from the two Poisson distributions. The ratio distribution, $ R $, is built up from the ratio of the draws of each pair of $ n_1 $ and $ n_2 $ 
+
 $$
 R(\lambda_1,\lambda_2)=\left\{\left(\frac{n_1}{n_2}\right)_1,\left(\frac{n_1}{n_2}\right)_2,\dots,\left(\frac{n_1}{n_2}\right)_{1000000}\right\}
 $$
