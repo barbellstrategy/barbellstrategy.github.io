@@ -8,7 +8,6 @@ Anything unlinked here is coming soon and not ready for prime time.
 
 | Modeling Talk                                                |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Pandemic Decision Support](articles/simwrapper/pandemic-decision-support-for-a-novel-problem-and-its-challenges.md) | Work we did in our day job that’s related to the kind of stuff we do here. |
 | [Do Masks Work?](articles/masks/thoughts-on-the-bangladesh-mask-paper.md) | An analysis of the “Bangladesh Mask Study”.                  |
 | COVID-19 Vaccines, Menstrual Function, and Pregnancy Outcomes | An analysis of the post-vaccination adverse event reporting related to women’s reproductive health. |
 
