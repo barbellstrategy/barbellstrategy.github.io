@@ -6,12 +6,13 @@ Anything unlinked here is coming soon and not ready for prime time.
 
 ----
 
-| Modeling Talk                                                |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Do Masks Work?](articles/masks/thoughts-on-the-bangladesh-mask-paper.md) | An analysis of the “Bangladesh Mask Study”.                  |
-| COVID-19 Vaccines, Menstrual Function, and Pregnancy Outcomes | An analysis of the post-vaccination adverse event reporting related to women’s reproductive health. |
+| Modeling Talk                                                |      |
+| ------------------------------------------------------------ | ---- |
+| Still haven’t gotten public release rights for any of this yet… |      |
 
 ----
+
+
 
 | Stuff From The Gym |  |
 | ------------- | ------------- |
